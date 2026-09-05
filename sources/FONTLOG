@@ -1,0 +1,29 @@
+FONTLOG for the Passerelle Baton font
+
+This file provides detailed information on the Passerelle Baton Font Software.
+This information should be distributed along with the Passerelle Baton fonts and any derivative works.
+
+Basic Font Information
+Passerelle Baton is a cursive and script font designed for handwriting instruction in primary schools. This derivative version brings specific adjustments to meet the educational needs of primary school teachers.
+Passerelle Baton is a modified version of the original Marelle font, initially developed by the French Ministry of National Education.
+
+ChangeLog
+20 May 2026 (Delphine Rimbaud-Le Borgne, Laurence Pierson, Khalid Kharbouche) Passerelle Baton v1.100
+- Replaced the open "s" from the initial version with the alternative closed "s" from the original character set.
+- Changed the uppercase letters size from 2 to 3 interlines.
+- Modified strokes for better weight consistency and to facilitate drawing for students, particularly for letters G, K, M, W, and Y.
+- Changed font name to respect the Reserved Font Name clause: "Marelle Bâton" becomes "Passerelle Baton".
+- Cleaned, updated, and synchronized identification metadata in PostScript (PS Names) and TrueType (TTF Names) tables in FontForge.
+
+Acknowledgements
+Ministère de l’Éducation nationale, de l’Enseignement supérieur et de la Recherche (Initial author of the original Marelle font)
+Laurent Bourcellier (Original design)
+Jonathan Fabreguettes (Original design)
+Rosalie Wagner (Original design of the initial Bâton variant)
+Delphine Rimbaud-Le Borgne (Educational contributor)
+Laurence Pierson (Contributor - Educational modifications and metadata)
+Isabelle Godefroy (Contributor - Educational modifications and metadata)
+Marlène Bernad (Contributor - Educational modifications and metadata)
+Elodie Pavageau Imbert (Contributor - Educational modifications and metadata)
+Laure Dufresne (Contributor - Educational modifications and metadata)
+Khalid Kharbouche (Contributor - Uppercase design, educational modifications, and metadata)
